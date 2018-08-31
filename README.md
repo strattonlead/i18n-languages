@@ -4,3 +4,5 @@ This project heavily uses resources from https://github.com/umpirsky and extends
 You can see a live demo of it at https://i18n-languages.com/
 
 Further extensions are all countries translated to all languages and all currency infos.
+
+Project import in progress!
